@@ -4,7 +4,7 @@
 
 ## Suggested Prerequisites
 
-- [Python](https://makeuseofdata/programming/languages/python/index.html)
+- [Python](https://makeuseofdata.com/programming/languages/python/index.html)
 
 ---
 
